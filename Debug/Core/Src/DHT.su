@@ -1,0 +1,5 @@
+DHT.c:23:10:DWT_Delay_Init	4	static,ignoring_inline_asm
+DHT.c:58:6:DHT_Start	8	static
+DHT.c:77:9:DHT_Check_Response	16	static
+DHT.c:92:9:DHT_Read	16	static
+DHT.c:111:6:DHT_GetData	16	static
